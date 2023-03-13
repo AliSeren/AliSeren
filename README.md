@@ -3,7 +3,7 @@ My personal repository
 <h1 align="center">Hi 👋, I'm Ali Seren</h1>
 <h3 align="center">I am a computer engineer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: aliseren86@gmail.com</h3>
 <p align="left">
 </p>
 
